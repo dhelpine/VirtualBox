@@ -1,0 +1,1 @@
+VBoxManage.exe clonehd e:\virtual_file2\Winserver2008.vmdk e:\virtual_file2\Winserver2008.vdi –-format vdi
